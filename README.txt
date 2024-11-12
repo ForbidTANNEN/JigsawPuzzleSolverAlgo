@@ -32,10 +32,8 @@ Conclusion:
 I’m super excited to submit my Jigsaw Puzzle Solver for the 106A Programming Contest! I thoroughly enjoyed the challenge!! I have pretty much spent every
 free moment (plus some long nights), since the announcement of the contest working on it.  My mom always has a puzzle going at home, so to make things easier
 for her, I thought I would try programming a jigsaw puzzle solver...and it actually works!!  I did come to the realization during the process, that this was a
-pretty complex problem. It would have been better solved using AI, but nonetheless it was incredibly fun programming it with all of the stuff we learned in
-class! I completely underestimated the complexity of the algorithms, and the amount of time it would take to program it - I wish I would have had more
+pretty complex problem. I completely underestimated the complexity of the algorithms, and the amount of time it would take to program it - I wish I would have had more
 time, so I could clean up my code a bit and I would have loved to make some more puzzles (it’s surprisingly hard to find custom puzzles online that you can cut
-out) - but I’m excited for how it turned out all in all. My next venture is definitely going to be a beginner AI course - I would love to try again using AI!
-
+out) - but I’m excited for how it turned out all in all. 
 Author:
 Tannen Hall - rising high school Junior at Pacific Ridge High School in San Diego, CA
